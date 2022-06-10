@@ -1,2 +1,2 @@
 # BeautifulSoupForCpp
-mimic BeautifulSoup in C++
+mimic BeautifulSoup in C++ to parse html pages
